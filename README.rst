@@ -24,7 +24,7 @@ Get source::
 Setup ``debian/`` dir::
 
     cd bcg729-$VER
-    git clone https://github.com/ossobv/bcg729-deb.git debian
+    git clone https://github.com/powerpbx.org/bcg729-deb.git debian
 
 Optionally alter ``debian/changelog`` and then build::
 
